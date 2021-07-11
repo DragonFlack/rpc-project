@@ -1,5 +1,4 @@
-Discord JS RPC
-
+# Discord JS RPC
 <div align="center">
   <br />
   <p>
