@@ -1,4 +1,4 @@
-const clientId = 'your_id';
+const clientId = 'your_id'; // https://discord.com/developers/applications
 const DiscordRPC = require('discord-rpc');
 
 const rpc = new DiscordRPC.Client({ transport: 'ipc' });
