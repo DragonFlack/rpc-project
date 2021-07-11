@@ -1,5 +1,6 @@
-# Discord JS RPC
+
 <div align="center">
+  <h1> <b>Discord JS RPC</b> </h1>
   <br />
   <p>
     <a href="https://www.npmjs.com/package/discord-rpc"><img src="https://img.shields.io/npm/v/discord-rpc.svg?maxAge=3600" alt="NPM version" /></a>
@@ -9,9 +10,12 @@
   <p>
     <a href="https://nodei.co/npm/discord-rpc/"><img src="https://nodei.co/npm/discord-rpc.png?downloads=true&stars=true" alt="NPM info" /></a>
   </p>
+  
+  
+  <h3> <a href="https://github.com/discordjs/RPC"> GitHub Documentation </a> </h3>
+  <h3> <a href="https://discord.js.org/#/docs/rpc/master/general/welcome"> Documentation </a> </h3>
+  <h3> <a href="https://discordapp.com/developers/applications"> Create Application </a> </h3>
 </div>
 
 
-[GitHub Documentation](https://github.com/discordjs/RPC) <br>
-[Documentation](https://discord.js.org/#/docs/rpc/master/general/welcome) <br>
-[Create Application](https://discordapp.com/developers/applications) <br>
+
