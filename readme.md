@@ -1,6 +1,16 @@
 Discord JS RPC
 
-[![npm](https://camo.githubusercontent.com/c7e3f60cb3563bef76bbe1a2542c03e3dd2e4639/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f646973636f72642d7270632e7376673f6d61784167653d33363030)](https://www.npmjs.com/package/discord-rpc)
+<div align="center">
+  <br />
+  <p>
+    <a href="https://www.npmjs.com/package/discord-rpc"><img src="https://img.shields.io/npm/v/discord-rpc.svg?maxAge=3600" alt="NPM version" /></a>
+    <a href="https://www.npmjs.com/package/discord-rpc"><img src="https://img.shields.io/npm/dt/discord-rpc.svg?maxAge=3600" alt="NPM downloads" /></a>
+    <a href="https://david-dm.org/discordjs/RPC"><img src="https://img.shields.io/david/discordjs/RPC.svg?maxAge=3600" alt="Dependencies" /></a>
+  </p>
+  <p>
+    <a href="https://nodei.co/npm/discord-rpc/"><img src="https://nodei.co/npm/discord-rpc.png?downloads=true&stars=true" alt="NPM info" /></a>
+  </p>
+</div>
 
 
 [GitHub Documentation](https://github.com/discordjs/RPC) <br>
